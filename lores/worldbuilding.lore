@@ -1,0 +1,19 @@
+version: "1.0"
+
+metadata:
+  name: Worldbuilding Investigation
+  author: Searchlores Academy
+  version: "1.0"
+
+investigation:
+  assumptions:
+    - world_consistency
+    - logical_rules
+  myths:
+    - perfect_world
+  vectors:
+    - geography
+    - history
+  questions:
+    - Is it consistent?
+    - What are the rules?

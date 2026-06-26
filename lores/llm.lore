@@ -1,0 +1,41 @@
+version: "1.0"
+
+metadata:
+
+  name: LLM Investigation
+
+  author: Searchlores Academy
+
+  version: "1.0"
+
+investigation:
+
+  assumptions:
+
+    - intelligence
+
+    - understanding
+
+    - reasoning
+
+  myths:
+
+    - ai_thinks
+
+    - ai_understands
+
+  vectors:
+
+    - cognition
+
+    - economics
+
+    - regulation
+
+  questions:
+
+    - Who benefits?
+
+    - Who loses?
+
+    - What assumptions exist?
