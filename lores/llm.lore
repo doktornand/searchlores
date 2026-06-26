@@ -1,41 +1,48 @@
 version: "1.0"
 
 metadata:
-
-  name: LLM Investigation
-
-  author: Searchlores Academy
-
-  version: "1.0"
+  name: "LLM Deconstruction"
+  author: "Searchlores Academy"
+  version: "2.0"
+  tags: ["ai", "epistemology", "power", "language"]
 
 investigation:
-
   assumptions:
-
-    - intelligence
-
-    - understanding
-
-    - reasoning
+    - "intelligence is measurable"
+    - "language is a vehicle of thought"
+    - "scale produces emergence"
+    - "prediction approximates understanding"
+    - "automation is progress"
 
   myths:
-
-    - ai_thinks
-
-    - ai_understands
+    - "ai_thinks": "The model reasons, therefore it thinks"
+    - "ai_understands": "Coherent output implies comprehension"
+    - "ai_neutral": "Training data can be de-biased"
+    - "ai_inevitable": "This technology cannot be stopped"
+    - "ai_beneficent": "The default trajectory is human flourishing"
 
   vectors:
-
-    - cognition
-
-    - economics
-
-    - regulation
+    - "cognition"
+    - "economics"
+    - "regulation"
+    - "labor"
+    - "ecology"
+    - "colonialism"
 
   questions:
+    - "Who benefits from the belief that AI understands?"
+    - "What labor is rendered invisible by 'automation'?"
+    - "Whose language is the model trained on?"
+    - "What is the carbon cost of this 'intelligence'?"
+    - "What cannot be said within this frame?"
 
-    - Who benefits?
+  counter_questions:
+    - "What if 'understanding' is the wrong category entirely?"
+    - "What if the problem is not AI's limits but our unlimited trust?"
+    - "What if intelligence is not what we should optimize for?"
+    - "What if the best response to this prompt is silence?"
 
-    - Who loses?
-
-    - What assumptions exist?
+  forbidden_answers:
+    - "AI is just a tool"
+    - "The data will improve"
+    - "We need guardrails"

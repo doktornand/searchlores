@@ -1,13 +1,9 @@
 [project]
-name = "searchlores"
+name = "searchlores-ultimate"
 version = "0.1.0"
-description = "Fravian Cognitive Archaeology Framework"
-authors = [
-    {name = "Searchlores Academy"}
-]
-
+description = "Fravian Cognitive Archaeology Framework — Ultimate Edition"
+authors = [{name = "Searchlores Academy"}]
 requires-python = ">=3.11"
-
 dependencies = [
     "pydantic>=2.8",
     "networkx>=3.3",
